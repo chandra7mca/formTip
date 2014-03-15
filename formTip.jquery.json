@@ -1,0 +1,43 @@
+{
+  "name": "formTip",
+  "title": "jQuery Form Tip ",
+  "description": "A jump-start for Form tooltips and messages using JQuery.",
+  "keywords": [
+    "jquery",
+    "tooltips",
+	"messages",
+	"arrows",
+	"forms",
+	"dynamicmessages",
+	"errors",
+	"warnings",
+	"info",
+	"status",
+	"formtip",
+    "plugins"
+  ],
+  "version": "1.0.0",
+  "author": {
+    "name": "Chandra Sekhar N",
+    "url": "https://github.com/chandra7mca"
+  },
+  "maintainers": [
+    {
+      "name": "Chandra Sekhar N",
+      "url": "https://github.com/chandra7mca"
+    }
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "bugs": "https://github.com/chandra7mca/FormTip/issues",
+  "homepage": "https://github.com/chandra7mca/FormTip",
+  "docs": "https://github.com/chandra7mca/FormTip/blob/master/README.md",
+  "download": "https://github.com/chandra7mca/FormTip/archive/master.zip",
+  "dependencies": {
+    "jquery": ">=1.8.3"
+  }
+}
